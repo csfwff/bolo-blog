@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [白露](https://sszsj.top/articles/2020/09/07/1599459829614.html)
 * [几个仍未解决的摄像头Bug](https://sszsj.top/articles/2020/09/02/1599037000020.html)
 * [处暑](https://sszsj.top/articles/2020/08/21/1597995221991.html)
 * [立秋](https://sszsj.top/articles/2020/08/07/1596775180835.html)
@@ -29,7 +30,6 @@
 * [春分](https://sszsj.top/articles/2020/03/10/1583847526172.html)
 * [记一次神奇的文件夹删除失败问题](https://sszsj.top/articles/2020/03/16/1584340972217.html)
 * [青璃](https://sszsj.top/articles/2020/03/13/1584084847295.html)
-* [光明旅者Hyper Light Drifter](https://sszsj.top/articles/2020/03/13/1584081025904.html)
 
 
 
