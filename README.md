@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [一款用着还不错的屏幕扩展软件SpaceDesk](https://sszsj.top/articles/2020/11/30/1606702808004.html)
 * [小雪](https://sszsj.top/articles/2020/11/23/1606097521488.html)
 * [记一些开发中的小问题](https://sszsj.top/articles/2020/11/19/1605765709972.html)
 * [记一次追尾事故](https://sszsj.top/articles/2020/11/10/1604989504426.html)
@@ -29,7 +30,6 @@
 * [小暑](https://sszsj.top/articles/2020/07/06/1594014031311.html)
 * [解决Android Studio控制台乱码](https://sszsj.top/articles/2020/07/03/1593752646951.html)
 * [夏至](https://sszsj.top/articles/2020/06/21/1592717601608.html)
-* [煎熬--2020年中](https://sszsj.top/articles/2020/06/04/1591246385311.html)
 
 
 
