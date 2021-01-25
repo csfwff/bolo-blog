@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [迟迟](https://sszsj.top/articles/2021/01/25/1611554571932.html)
 * [像素画练习](https://sszsj.top/articles/2021/01/14/1610606360833.html)
 * [泊梦](https://sszsj.top/articles/2021/01/13/1610519885771.html)
 * [熬过去了么？2020年终](https://sszsj.top/articles/2020/12/03/1606980773113.html)
@@ -29,7 +30,6 @@
 * [青璃](https://sszsj.top/articles/2020/03/13/1584084847295.html)
 * [光明旅者Hyper Light Drifter](https://sszsj.top/articles/2020/03/13/1584081025904.html)
 * [夜勤人----不会开店的勇者不是好村民](https://sszsj.top/articles/2020/03/13/1584076243624.html)
-* [摸🐟玩家在线卑微](https://sszsj.top/articles/2020/03/12/1584020754749.html)
 
 
 
