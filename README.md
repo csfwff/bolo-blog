@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [最适合小白的投资利器——指数基金](https://sszsj.top/articles/2021/02/06/1612770453718.html)
 * [迟迟](https://sszsj.top/articles/2021/01/25/1611554571932.html)
 * [像素画练习](https://sszsj.top/articles/2021/01/14/1610606360833.html)
 * [泊梦](https://sszsj.top/articles/2021/01/13/1610519885771.html)
@@ -29,7 +30,6 @@
 * [记一次神奇的文件夹删除失败问题](https://sszsj.top/articles/2020/03/16/1584340972217.html)
 * [青璃](https://sszsj.top/articles/2020/03/13/1584084847295.html)
 * [光明旅者Hyper Light Drifter](https://sszsj.top/articles/2020/03/13/1584081025904.html)
-* [夜勤人----不会开店的勇者不是好村民](https://sszsj.top/articles/2020/03/13/1584076243624.html)
 
 
 
