@@ -1,9 +1,9 @@
-<p align="center"><img alt="鼠鼠在碎觉" src="https://img.sszsj.top/favicon.png"></p><h2 align="center">
-鼠鼠在碎觉
+<p align="center"><img alt="心情笔记" src="https://img.sszsj.top/favicon.png"></p><h2 align="center">
+心情笔记
 </h2>
 
 <h4 align="center">forever alone forever sad</h4>
-<p align="center"><a title="鼠鼠在碎觉" target="_blank" href="https://github.com/csfwff/bolo-blog"><img src="https://img.shields.io/github/last-commit/csfwff/bolo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="心情笔记" target="_blank" href="https://github.com/csfwff/bolo-blog"><img src="https://img.shields.io/github/last-commit/csfwff/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/csfwff/bolo-blog"><img src="https://img.shields.io/github/repo-size/csfwff/bolo-blog.svg?style=flat-square"></a>
 <a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/csfwff/bolo-blog.svg"></a></p>
